@@ -1,5 +1,5 @@
 # Osiant
-# Number → Information (Termux / Linux) — Hindi
+# Number → Information (Termux / Linux) 
 
 Yeh project aapko ek number dekar uss number se judi information (name, address, father name, mother name) dikhane, naya record add karne, update karne aur list karne ki suvidha deta hai. Do tarike se chal sakta hai: CLI aur Web UI (Flask).
 
